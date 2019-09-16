@@ -1,0 +1,6 @@
+{
+    "packages": [],
+    "notify": "http://webham.eu",
+    "notify-batch": "http://webham.eu",
+    "metadata-url": "/p2/%package%.json"
+}
